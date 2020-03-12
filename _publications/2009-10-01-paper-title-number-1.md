@@ -1,7 +1,7 @@
 ---
 title: "Avery Was here"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/averysedit
 excerpt: 'Averys summar yof this page'
 date: 2020-10-01
 venue: 'Averys Venue'
