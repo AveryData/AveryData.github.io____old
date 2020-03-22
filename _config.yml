@@ -229,7 +229,7 @@ defaults:
       comments: true
   # _portfolio
   - scope:
-      path: ""
+      path: "https://averydata.github.io/portfolio/"
       type: portfolio
     values:
       layout: single
