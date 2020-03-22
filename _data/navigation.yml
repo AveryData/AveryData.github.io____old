@@ -4,10 +4,10 @@ main:
     url: /portfolio/
 
   - title: "Blog"
-    url: /talks/    
+    url: /blog/    
 
   - title: "About"
-    url: /teaching/    
+    url: /about/    
     
   - title: "Contact"
     url: /conctact/
