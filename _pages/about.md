@@ -1,12 +1,28 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "a place where data rules"
+excerpt: "Avery ---- Home Page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Hi everyone. 
+
+Hey! I'm Avery. I'm a data nerd. In fact, I just bought my dog a fitness tracker ¯\_(ツ)_/¯.  I just couldn't resist combining my two favorite things (data and Peach, my goldendoodle puppy). I'm originally from Sandy, Utah and attended University of Utah where I earned my BS in Chemical Engineering. Yup, Chemical Engineering. I worked as a Data Scientist at a small bio-tech company and did some statistical undergraduate research before accepting a job with ExxonMobil in their Optimization Division. I also started grad school at Georgia Tech in their Master's of Data Analytics in August of 2019. 
+
+​
+
+This website is meant to be a portfolio of all of my side projects and some of my work and school projects. It'll also have all my research and learnings from people who do similar things. And finally, it'll have a bit of my musings and weird thoughts that my wife isn't interested in. 
+
+​
+
+I'm always open to messages. I'm always open to mentor, or be mentored. I'm always open to collaborations, freelance work, and whatever else you have in mind. Don't be afraid to reach out in any way.
+
+ 
+
+Explore and enjoy!
 
 Avery Smith was here on pages. About. !!! Hello! If I edit this . This is how it looks.This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
