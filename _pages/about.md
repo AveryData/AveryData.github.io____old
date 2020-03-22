@@ -10,13 +10,10 @@ redirect_from:
 
 Hi everyone. 
 
-Hey! I'm Avery. I'm a data nerd. In fact, I just bought my dog a fitness tracker ¯\_(ツ)_/¯.  I just couldn't resist combining my two favorite things (data and Peach, my goldendoodle puppy). I'm originally from Sandy, Utah and attended University of Utah where I earned my BS in Chemical Engineering. Yup, Chemical Engineering. I worked as a Data Scientist at a small bio-tech company and did some statistical undergraduate research before accepting a job with ExxonMobil in their Optimization Division. I also started grad school at Georgia Tech in their Master's of Data Analytics in August of 2019. 
+Hey! I'm Avery. I'm a data nerd. In fact, I just bought my dog a fitness tracker ¯\\_(ツ)_/¯.  Look I just couldn't resist combining my two favorite things (data and Peach, my goldendoodle). I'm from Salt Lake City, Utah and attended University of Utah where I earned my BS in Chemical Engineering. Yup, you read that right, Chemical Engineering. I worked as a Data Scientist at a small bio-tech company and did   undergraduate research in fault detection before accepting a job with ExxonMobil in their Optimization Division. I also started grad school at Georgia Tech in their Master's of Data Analytics in August of 2019. 
 
-​
+This website is meant to be a portfolio of all of my fun projects and some of my work and school projects. It'll also have all my research and learnings from people who do similar things. And finally, it'll have a bit of my musings and weird thoughts that my wife isn't interested in. 
 
-This website is meant to be a portfolio of all of my side projects and some of my work and school projects. It'll also have all my research and learnings from people who do similar things. And finally, it'll have a bit of my musings and weird thoughts that my wife isn't interested in. 
-
-​
 
 I'm always open to messages. I'm always open to mentor, or be mentored. I'm always open to collaborations, freelance work, and whatever else you have in mind. Don't be afraid to reach out in any way.
 
